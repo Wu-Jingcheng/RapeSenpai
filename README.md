@@ -16,4 +16,4 @@
 
 [科技地址](https://github.com/Wu-Jingcheng/HackRapeSenpai/blob/main/README.md)
 
-[B站演示(三段代码，让先辈叫了114514次)](https://www.bilibili.com/video/BV15Y41187vw?spm_id_from=333.999.0.0)
+[B站演示(三段代码，让先辈叫了114514次)](https://www.bilibili.com/video/BV15Y41187vw)
